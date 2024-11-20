@@ -1,0 +1,31 @@
+question_content,choice_a,choice_b,choice_c,choice_d,choice_e,correct_answer,explanation
+What does a network primarily do?,Transfers energy,Transfers data,Manages computers,Transfers information,None of the above,d,A network is designed to interconnect systems for information transfer.
+Which of the following is an example of an access network?,Fiber Distributed Data Interface,Token Ring,DSL,Ethernet,All of the above,c,Digital Subscriber Line (DSL) is an access network type.
+What is the typical transmission rate for a DSL downstream link?,100 Mbps,<24 Mbps,<2.5 Mbps,54 Mbps,None of the above,b,DSL typically supports a downstream rate of <24 Mbps.
+Which layer does the IP router operate at?,Physical,Data Link,Network,Application,Transport,c,IP routers operate at the network layer.
+Which of the following is used for optical-electrical conversion in a PON?,DSL Modem,Optical Network Unit (ONU),Ethernet LAN,Switch,Coaxial cable,b,ONU is the device for optical-electrical conversion in a Passive Optical Network.
+What is the maximum upstream transmission rate for a typical cable network?,54 Mbps,100 Mbps,1 Gbps,30 Mbps,2 Mbps,e,The upstream rate for a typical cable network is 2 Mbps.
+Which type of network uses a token to transmit data?,Token Ring,Ethernet,DSL,802.11 Wireless LAN,None of the above,a,Token Ring networks use a circulating token for data transmission.
+What does the term 'bandwidth' refer to in computer networks?,The number of nodes in a network,The width of the frequency band,The number of packets sent per second,The number of bits in a packet,The size of a data file,b,Bandwidth refers to the width of the frequency band available for data transmission.
+Which network technology is used for connecting end systems to routers in a wireless access network?,Fiber,WiFi (802.11),Ethernet,SONET,ATM,b,Wireless access networks typically use WiFi technology.
+What is the typical geographical area covered by a LAN?,Country,Continent,Office or Campus,City,None of the above,c,LANs cover small areas such as offices or campuses.
+What type of transmission does Ethernet use?,Point-to-point,Token passing,Broadcast,Optical,None of the above,c,Ethernet uses broadcast transmission where all nodes can see the data.
+Which protocol is responsible for end-to-end delivery of data?,Ethernet,WiFi,TCP,HTTP,UDP,c,TCP provides end-to-end reliable delivery of data.
+"In a switched network, which device forwards data between links?",Router,Hub,Ethernet card,Switch,Server,d,A switch forwards data between different network links.
+What is the main function of a router in a network?,Transmit signals,Detect collisions,Forward packets between networks,Store data,Perform error correction,c,Routers forward data packets between different networks.
+Which technology is commonly used for fiber-to-the-home access?,DSL,Ethernet,WiFi,Passive Optical Network (PON),Token Ring,d,PON is a popular fiber network-based access technology.
+Which protocol is used for reliable transport of data?,IP,TCP,HTTP,UDP,Ethernet,b,TCP is designed for reliable data transport.
+What is the maximum data transmission speed of WiFi (802.11ac)?,10 Mbps,Hundreds of Mbps to a few Gbps,1 Gbps,54 Mbps,None of the above,b,WiFi 802.11ac can achieve speeds up to several Gbps.
+Which device typically performs packet switching in core networks?,Switch,Router,Server,Modem,Firewall,b,Routers perform packet switching at the core network layer.
+What is a key requirement for ensuring network reliability?,Error correction,High data rate,WiFi connection,IP addressing,None of the above,a,Error correction ensures reliable data transmission by correcting errors.
+How does a token ring network prevent collisions?,By circulating a token,By switching nodes,Using IP routing,By using WiFi,None of the above,a,Token Ring networks avoid collisions by circulating a token that grants the right to transmit data.
+"In a broadcast link, what happens when one node transmits data?",Only the receiver gets the data,All nodes receive the data,The data is discarded,Only the sender stores the data,None of the above,b,"In a broadcast link, all connected nodes receive the transmitted data."
+What is the purpose of using a splitter in DSL networks?,To increase bandwidth,To improve security,To separate voice and data transmission,To route data,To enhance speed,c,A splitter separates voice and data over the same DSL line.
+What is the purpose of encryption in network security?,To detect collisions,To increase bandwidth,To compress data,To protect data confidentiality,None of the above,d,Encryption is used to protect the confidentiality of data being transmitted.
+Which of the following can be a packet switch?,A computer,A mobile phone,A tablet,A router,A fiber cable,d,Routers are packet switches in networks.
+Which network technology uses frequency division multiplexing?,DSL,Cable TV,WiFi,Fiber,Ethernet,b,Cable TV uses frequency division multiplexing to transmit multiple channels over a shared medium.
+What type of errors do networks typically aim to handle?,Hardware failure,Software bugs,Bit errors and packet loss,Power outages,All of the above,c,Networks aim to handle bit errors and packet loss through error correction and retransmission.
+What is the advantage of using fiber optic cables in networks?,Low cost,Ease of installation,High bandwidth and low bit error rate,Compatibility with DSL,None of the above,c,"Fiber optic cables offer high bandwidth and low error rates, making them ideal for high-speed data transmission."
+What is an example of a network application?,Router configuration,Web browsing,Cable installation,WiFi setup,None of the above,b,Web browsing is a common network application.
+What is the function of an access point in wireless networks?,To increase security,To forward packets,To connect devices to a wired network,To limit bandwidth,None of the above,c,An access point connects wireless devices to a wired network.
+What is the significance of throughput in networks?,Measures latency,Defines security level,Indicates signal strength,Represents the actual data transfer rate,None of the above,d,Throughput measures the actual rate at which data is transferred in a network.

@@ -1,0 +1,21 @@
+question_content,choice_a,choice_b,choice_c,choice_d,choice_e,correct_answer,explanation
+What is the primary challenge for wireless links in shared medium?,Interference,Limited bandwidth,Exclusive use,Mobility,Spread spectrum,a,Wireless links face interference due to multiple devices sharing the same medium.
+What technique is used to spread a signal over a wide frequency band?,Direct sequence,Frequency modulation,Amplitude modulation,Time division,Phase shift,a,Direct sequence spreads the signal by XORing each bit with a random sequence of bits.
+Which frequency band is reserved for license-exempt usage?,5 GHz,2.4 GHz,3.5 GHz,900 MHz,All of the above,b,Devices using 2.4 GHz can operate without a license but must follow power restrictions.
+Which wireless technology supports mobility between bases?,Bluetooth,Wi-Fi,3G cellular,Ethernet,Token Ring,c,3G cellular networks enable mobility across wide geographical areas.
+What is the transmission power limit used for license-exempt devices?,10 Watts,100 Watts,1 Watt,100 mW,Varies by location,d,Devices using license-exempt frequencies are limited to 100 mW to reduce interference.
+What problem arises when two hidden nodes communicate with a common receiver?,Collision,Exposed node,Interference,Duplication,Missed transmission,a,"Hidden nodes can't detect each other's signals, leading to collisions at the receiver."
+Which wireless technology is backward compatible with 802.11b?,802.11a,802.11g,Bluetooth,4G,3G,b,"802.11g is backward compatible with 802.11b, allowing devices to interoperate."
+How is a Request to Send (RTS) frame used?,To initialize frequency hopping,To request channel access,To establish encryption,To modulate the signal,To acknowledge receipt,b,RTS is used to request access to a channel before transmission begins.
+What is the primary difference between frequency hopping and direct sequence techniques?,Data rate,Frequency range,Modulation method,Security,Spread factor,e,"Direct sequence spreads the signal over a wider range, while frequency hopping changes channels."
+What is the benefit of using MIMO in 802.11n?,Increased security,Higher bandwidth,Wider coverage,Lower power consumption,Greater interference resilience,b,"MIMO allows multiple signals to be sent over the same frequency, increasing bandwidth."
+Which protocol does 802.11 use to avoid collisions?,CSMA/CD,MACA,TCP,UDP,ICMP,b,802.11 uses MACA (Multiple Access with Collision Avoidance) to minimize collisions.
+What issue does the exposed node problem describe?,Interference with hidden nodes,Failure to detect collisions,Nodes unnecessarily avoid transmitting,Data corruption,Packet loss,c,"Exposed nodes avoid transmitting despite no interference, leading to wasted opportunities."
+What frame is used to acknowledge a successful transmission in 802.11?,CTS,RTS,ACK,NACK,DATA,c,ACK frames confirm successful reception of transmitted data.
+Which wireless standard provides speeds up to 54 Mbps using OFDM?,802.11a,802.11b,802.11g,802.11n,Bluetooth,a,802.11a uses OFDM and supports speeds up to 54 Mbps.
+What method is used to select an Access Point (AP)?,Scanning,Hopping,Polling,Tuning,Broadcasting,a,Nodes use scanning to select an AP by sending probe frames and evaluating responses.
+What frequency band does 802.11ac use?,2.4 GHz,5 GHz,900 MHz,1.8 GHz,Both 2.4 and 5 GHz,b,"802.11ac uses the 5 GHz band, improving on 802.11n."
+Which frame contains the length of data to be transmitted?,CTS,RTS,ACK,Beacon,Probe,b,The RTS frame includes the data length to be transmitted.
+Which frame advertises the capabilities of an Access Point?,Beacon,Probe,CTS,RTS,ACK,a,"Beacon frames advertise the capabilities of an AP, including supported transmission rates."
+What is a key characteristic of a wireless mesh network?,Centralized control,Peer-to-peer communication,Fixed infrastructure,Low bandwidth,Limited mobility,b,Wireless mesh networks rely on peer-to-peer communication for routing.
+What technique reduces interference by hopping between frequencies?,OFDM,Direct sequence,MACA,Frequency hopping,Spread spectrum,d,Frequency hopping reduces interference by rapidly switching between frequencies.
